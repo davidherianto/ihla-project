@@ -7,5 +7,5 @@ CX-One was used to develop the PLC program using the Ladder Diagram programming 
 ## B. PLC Program Documentation
 The figure below presents a portion of the Ladder Diagram developed for the IHLA system.
 
-![image alt][https://github.com/davidherianto/ihla-project/blob/9208052a875d3a8c41f271c5a87c1b86760130a5/img/ladderdiagram.png]
+![image alt](https://github.com/davidherianto/ihla-project/blob/9208052a875d3a8c41f271c5a87c1b86760130a5/img/ladderdiagram.png)
 
